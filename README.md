@@ -5,3 +5,6 @@ use the environment.yml to configure the python environment needed to run the pr
 
 For running the program using the command 
 > python main.py PATH_TO_DATA
+
+Additional requirements:
+For saving intermediate data like instantaneous rotational velocity and display of tracking, create directoris with name "data/" and "video_out/" (case sensitive) in the same directory as the main.py file
